@@ -1,0 +1,7 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int x[10]={12,5,4,3,2,8,1,9,10,9};
+int i,j;
+clrscr();
